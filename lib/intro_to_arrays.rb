@@ -19,3 +19,8 @@ end
 def last_element(arr)
   return arr[-1]
 end
+
+def length_of_array(arr)
+  return arr.length
+
+end
