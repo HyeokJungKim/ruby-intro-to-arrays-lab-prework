@@ -24,6 +24,11 @@ def first_element_with_array_methods(arr)
   arr.shift()
 end
 
+def last_element_with_array_methods(arr)
+  arr.pop()
+  
+end
+
 def length_of_array(arr)
   return arr.size
 end
