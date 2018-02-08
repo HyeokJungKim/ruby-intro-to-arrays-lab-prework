@@ -20,7 +20,10 @@ def last_element(arr)
   return arr[-1]
 end
 
-def length_of_array(arr)
-  return arr.length
+def first_element_with_array_methods
 
+end
+
+def length_of_array(arr)
+  return arr.size
 end
